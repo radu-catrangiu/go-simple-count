@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/radu-catrangiu/go-simple-count/internal/filewriter"
+	"github.com/radu-catrangiu/go-simple-counter-server/internal/filewriter"
 )
 
 func getCount(w http.ResponseWriter, r *http.Request) {

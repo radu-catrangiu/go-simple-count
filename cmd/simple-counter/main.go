@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/radu-catrangiu/go-simple-count/internal/filewriter"
-	"github.com/radu-catrangiu/go-simple-count/internal/server"
+	"github.com/radu-catrangiu/go-simple-counter-server/internal/filewriter"
+	"github.com/radu-catrangiu/go-simple-counter-server/internal/server"
 )
 
 func main() {
